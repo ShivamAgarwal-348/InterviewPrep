@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DsaPractice/DsaPractice.csproj" />
+  <Project Path="ParkingLot/ParkingLot.csproj" />
+</Solution>
