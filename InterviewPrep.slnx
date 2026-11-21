@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="DsaPractice/DsaPractice.csproj" />
+  <Project Path="MemoryDemo/MemoryDemo.csproj" Id="0b0313aa-657f-470e-9969-7140e439416f" />
   <Project Path="ParkingLot/ParkingLot.csproj" />
 </Solution>
